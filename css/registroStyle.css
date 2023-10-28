@@ -85,6 +85,11 @@ body {
     margin: 10px;
 }
 
+.liButton {
+    display: flex;
+    justify-content: space-between;
+}
+
 @media (max-width: 600px) {
 
     body {
